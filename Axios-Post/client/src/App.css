@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  background-color: rgb(96, 96, 187);
+  padding: 20px;
+  margin: 20px;
+}
+
+label{
+  width: 150px;
+  display: inline-block;
+  margin: 10px;
+}
+
+input{
+  width: auto;
+  border-radius: 20px;
+}
+
+.link{
+  font-size: 2rem;
+}
+.div{
+  display: inline-block;
+}
+
+.img{
+  width: 150px;
+  height: 150px;
+}
+
+.img1{
+  width: 500px;
+  height: auto;
+}
+
+.nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: rgb(144, 184, 156);
+}
+a{
+  font-size: 2rem;
+}
